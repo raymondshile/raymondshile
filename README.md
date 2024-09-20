@@ -1,4 +1,10 @@
 ## Hi there 👋
+# About Me
+## My Interests
+## Websites I Recommend
+- [Google](https://www.google.com) - I find Google indispensable
+for researching all kinds of information.
+- [TED Talks](https://www.ted.com) - TED Talks inspire me wit
 
 <!--
 **raymondshile/raymondshile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
