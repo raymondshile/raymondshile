@@ -1,10 +1,12 @@
-## Hi there 👋
-# About Me
-## My Interests
-## Websites I Recommend
-- [Google](https://www.google.com) - I find Google indispensable
-for researching all kinds of information.
-- [TED Talks](https://www.ted.com) - TED Talks inspire me wit
+## Hi there, I'm ola👋
+<h1>About Me</h1> 
+
+<h2>My Interests</h2>
+- I love Tiktok, and i'm studying this Github
+
+<h2>Websites I Recommend</h2> 
+- [Tiktok](https://www.tiktok.com) - Because it's fun
+- [Instagram](https://www.instagram.com) - Instagram is very informative.
 
 <!--
 **raymondshile/raymondshile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
