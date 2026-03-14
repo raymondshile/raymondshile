@@ -1,26 +1,41 @@
-## Hi there, I'm ola👋
-<h1>About Me</h1> 
-- I was born in Lagos, Nigeria. I like to meet people and make cool friends.
 
-<h2>My Interests</h2>
-- I love Tiktok, and i'm studying this Github
+## Hi there, I'm Olashile 👋
 
-<h2>Websites I Recommend</h2> 
-- [Tiktok](https://www.tiktok.com) - Because it's fun
-- [Instagram](https://www.instagram.com) - Instagram is very informative.
+<h1>About Me</h1>
 
-<!--
-**raymondshile/raymondshile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology student passionate about Linux, cloud infrastructure, and enterprise systems. I enjoy learning how large-scale systems operate and developing strong troubleshooting and system administration skills.
 
-Here are some ideas to get you started:
+I was born in Lagos, Nigeria, and currently studying in the United States while building my career in IT. I am excited to continue growing in the areas of Linux systems, cloud technologies, and open-source infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I was offered a **Technical Support Engineer Internship at Red Hat**, where I will be gaining hands-on experience supporting enterprise Linux environments.
+
+<h2>Current Focus</h2>
+
+- Learning Linux system administration
+- Troubleshooting enterprise infrastructure issues
+- Exploring cloud and open-source technologies
+- Building hands-on labs and technical projects
+- Improving my scripting and automation skills
+
+<h2>Technologies & Tools</h2>
+
+- Linux (RHEL / Ubuntu)
+- Git & GitHub
+- Bash / Command Line
+- Networking fundamentals
+- System troubleshooting
+
+<h2>Goals</h2>
+
+My goal is to grow into a skilled **Cloud Infrastructure or Site Reliability Engineer**, working on systems that power large-scale platforms.
+
+<h2>Platforms I Learn From</h2>
+
+- [Red Hat](https://www.redhat.com) – Enterprise open-source technologies
+- [GitHub](https://github.com) – Version control and collaboration
+- [Linux Foundation](https://www.linuxfoundation.org) – Learning about Linux and open-source ecosystems
+
+<h2>Connect With Me</h2>
+
+I enjoy collaborating with people who are passionate about technology, open-source, and infrastructure engineering.
 
