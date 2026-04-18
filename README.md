@@ -3,7 +3,7 @@
 
 <h1>About Me</h1>
 
-I am an Information Technology student passionate about Linux systems, cloud infrastructure, and enterprise technologies. I enjoy learning how large-scale systems operate and developing strong troubleshooting and system administration skills.
+I’m an Information Technology student focused on Linux systems, cloud infrastructure, and enterprise environments. I build hands-on projects to strengthen my troubleshooting, automation, and system administration skills.
 
 I was born in Lagos, Nigeria and I am a **U.S. citizen by naturalization** currently studying in the United States. I will be **graduating in May 2026 with a degree in Information Technology**.
 
