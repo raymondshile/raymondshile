@@ -22,7 +22,7 @@ I build and troubleshoot real-world systems with a focus on reliability, perform
 ## 🚀 Projects
 
 ### 🔧 Linux Server Monitoring Tool 
-![Monitoring Tool](https://raw.githubusercontent.com/raymondshile/linux-server-monitoring-bash/main/monitoring-tool.png)
+[![Monitoring Tool](https://raw.githubusercontent.com/raymondshile/linux-server-monitoring-bash/main/monitoring-tool.png)](https://github.com/raymondshile/linux-server-monitoring-bash)
 
 Built a Bash-based monitoring tool to track system performance and support troubleshooting.
 
