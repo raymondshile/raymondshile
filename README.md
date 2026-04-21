@@ -97,3 +97,9 @@ My goal is to grow into a Cloud Infrastructure Engineer or Site Reliability Engi
 ## 📅 Availability
 
 Open to full-time roles in Linux system administration, cloud infrastructure, and site reliability engineering starting August 2026.
+## 🧠 Support Engineering Mindset
+
+- Focus on root cause analysis, not just quick fixes  
+- Comfortable working with logs, system metrics, and CLI tools to diagnose issues  
+- Approach problems methodically: reproduce, isolate, resolve, and document  
+- Strong interest in Linux support environments and enterprise systems  
