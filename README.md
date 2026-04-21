@@ -21,7 +21,9 @@ I build and troubleshoot real-world systems with a focus on reliability, perform
 
 ## 🚀 Projects
 
-### 🔧 Linux Server Monitoring Tool
+### 🔧 Linux Server Monitoring Tool 
+![Monitoring Tool](https://github.com/raymondshile/linux-server-monitoring-bash/blob/main/monitoring-tool.png)
+
 Built a Bash-based monitoring tool to track system performance and support troubleshooting.
 
 - Monitors CPU, memory, disk usage, and system health  
