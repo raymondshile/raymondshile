@@ -19,9 +19,9 @@ I build and troubleshoot real-world systems with a focus on reliability, perform
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔧 Linux Server Monitoring Tool 
+###  Linux Server Monitoring Tool 
 [![Monitoring Tool](https://raw.githubusercontent.com/raymondshile/linux-server-monitoring-bash/main/monitoring-tool.png)](https://github.com/raymondshile/linux-server-monitoring-bash)
 
 Built a Bash-based monitoring tool to track system performance and support troubleshooting.
@@ -30,14 +30,14 @@ Built a Bash-based monitoring tool to track system performance and support troub
 - Automates log analysis for faster issue detection  
 - Improves system visibility and performance tracking  
 
-🔗 https://github.com/raymondshile/linux-server-monitoring-bash**Troubleshooting Example**
+ https://github.com/raymondshile/linux-server-monitoring-bash**Troubleshooting Example**
 
 
 Detected repeated high CPU usage alerts during testing and investigated system processes using `top`. Adjusted monitoring thresholds in the config file to reduce false positives and improve alert accuracy.
 
 ---
 
-### 🖥️ Proxmox Virtual Lab
+###  Proxmox Virtual Lab
 Designed and deployed a Proxmox-based lab to simulate enterprise infrastructure.
 
 - Configured virtual machines, storage, and network bridges  
@@ -46,7 +46,7 @@ Designed and deployed a Proxmox-based lab to simulate enterprise infrastructure.
 
 ---
 
-### 🏢 Windows Server & Active Directory
+###  Windows Server & Active Directory
 Configured and managed Active Directory in a Windows Server environment.
 
 - Created and managed users, groups, and organizational units  
@@ -55,7 +55,7 @@ Configured and managed Active Directory in a Windows Server environment.
 
 ---
 
-### 🧩 Virtualization & Networking
+###  Virtualization & Networking
 Built and managed virtual environments using VMware and VirtualBox.
 
 - Deployed multiple virtual machines for testing  
@@ -64,7 +64,7 @@ Built and managed virtual environments using VMware and VirtualBox.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Systems
 - Linux (RHEL, Ubuntu)  
@@ -88,7 +88,7 @@ Built and managed virtual environments using VMware and VirtualBox.
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 My goal is to grow into a Cloud Infrastructure Engineer or Site Reliability Engineer, working with large-scale systems, cloud platforms, and open-source technologies.
 
@@ -97,7 +97,7 @@ My goal is to grow into a Cloud Infrastructure Engineer or Site Reliability Engi
 ## 📅 Availability
 
 Open to full-time roles in Linux system administration, cloud infrastructure, and site reliability engineering starting August 2026.
-## 🧠 Support Engineering Mindset
+##  Support Engineering Mindset
 
 - Focus on root cause analysis, not just quick fixes  
 - Comfortable working with logs, system metrics, and CLI tools to diagnose issues  
