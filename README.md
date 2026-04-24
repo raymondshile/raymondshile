@@ -30,7 +30,7 @@ Built a Bash-based monitoring tool to track system performance and support troub
 - Automates log analysis for faster issue detection  
 - Improves system visibility and performance tracking  
 
- https://github.com/raymondshile/linux-server-monitoring-bash**Troubleshooting Example**
+ https://github.com/raymondshile/linux-server-monitoring-bash
 
 
 Detected repeated high CPU usage alerts during testing and investigated system processes using `top`. Adjusted monitoring thresholds in the config file to reduce false positives and improve alert accuracy.
