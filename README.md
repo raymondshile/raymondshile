@@ -1,4 +1,4 @@
-# Hi, I'm Olashile 👋
+# Hi, I'm Olashile (Ola) 👋
 
 Cloud Infrastructure student focused on Linux, systems administration, and enterprise technologies.
 
