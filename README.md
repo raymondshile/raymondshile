@@ -69,42 +69,38 @@ Built and managed virtual environments using VMware and VirtualBox.
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-### Systems
-- Linux (RHEL, Ubuntu)  
-- Windows Server  
+### Desktop & Endpoint Support
+- Windows 10/11, Microsoft 365, Outlook, and Microsoft Intune
+- VPN, Wi-Fi, and printer troubleshooting
 
-### Infrastructure & Virtualization
-- Proxmox  
-- VMware  
-- VirtualBox  
-- Networking  
+### Identity & Cloud
+- Active Directory, Microsoft Entra ID, and Azure fundamentals
+
+### Systems & Virtualization
+- Windows Server and Linux (RHEL, Ubuntu)
+- Proxmox, VMware, and VirtualBox
+- System troubleshooting and log analysis
 
 ### Scripting & Tools
-- Bash  
-- Python  
-- Git / GitHub  
-
-### Core Skills
-- Active Directory  
-- System Troubleshooting  
-- Log Analysis  
-
+- Bash, Python, Git, and GitHub
 ---
 
 ##  Career Goals
 
-My goal is to grow into a Cloud Infrastructure Engineer or Site Reliability Engineer, working with large-scale systems, cloud platforms, and open-source technologies.
+I’m pursuing roles in IT support, desktop support, and endpoint administration. I enjoy troubleshooting technical issues and helping people get back to work. Long term, 
+I’d like to grow into systems administration and cloud infrastructure.
 
 ---
 
-## 📅 Availability
+## Availability
 
-Available for full-time opportunities in Linux system administration, cloud infrastructure, site reliability engineering, and technical support starting August 2026.
-##  Support Engineering Mindset
+Open to full-time opportunities in technical consulting, IT support, desktop support, service desk, and endpoint administration throughout North Carolina’s Research Triangle, including Raleigh, Durham, Chapel Hill, and surrounding communities.
 
-- Focus on root cause analysis, not just quick fixes  
-- Comfortable working with logs, system metrics, and CLI tools to diagnose issues  
-- Approach problems methodically: reproduce, isolate, resolve, and document  
-- Strong interest in Linux support environments and enterprise systems  
+## How I Approach Technical Support
+
+- Ask questions to understand the issue and how it affects the user.
+- Reproduce the problem and use logs or system tools to narrow down the cause.
+- Document troubleshooting steps, keep users informed, and escalate with clear notes when needed.
+- Work with IT teams and vendors to resolve issues and confirm the fix with the user.
