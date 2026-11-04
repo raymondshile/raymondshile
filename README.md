@@ -19,7 +19,11 @@ I build and troubleshoot real-world systems with a focus on reliability, perform
 
 ---
 
-##  Projects
+## Certifications
+
+- Microsoft Certified: Endpoint Administrator Associate (MD-102)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- PCEP™ – Certified Entry-Level Python Programmer
 
 ###  Linux Server Monitoring Tool 
 [![Monitoring Tool](https://raw.githubusercontent.com/raymondshile/linux-server-monitoring-bash/main/monitoring-tool.png)](https://github.com/raymondshile/linux-server-monitoring-bash)
